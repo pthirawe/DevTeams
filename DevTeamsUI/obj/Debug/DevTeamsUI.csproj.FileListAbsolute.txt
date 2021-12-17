@@ -1,0 +1,13 @@
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeamsUI\obj\Debug\DevTeamsUI.csproj.AssemblyReference.cache
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeamsUI\obj\Debug\DevTeamsUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeamsUI\obj\Debug\DevTeamsUI.csproj.CoreCompileInputs.cache
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeamsUI\bin\Debug\DevTeamsUI.exe.config
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeamsUI\bin\Debug\DevTeamsUI.exe
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeamsUI\bin\Debug\DevTeamsUI.pdb
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeamsUI\bin\Debug\DevTeams_POCOs.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeamsUI\bin\Debug\DevTeams_Repository.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeamsUI\bin\Debug\DevTeams_POCOs.pdb
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeamsUI\bin\Debug\DevTeams_Repository.pdb
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeamsUI\obj\Debug\DevTeamsUI.csproj.CopyComplete
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeamsUI\obj\Debug\DevTeamsUI.exe
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeamsUI\obj\Debug\DevTeamsUI.pdb

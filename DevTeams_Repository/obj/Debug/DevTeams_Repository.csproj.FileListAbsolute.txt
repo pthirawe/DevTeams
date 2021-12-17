@@ -1,0 +1,9 @@
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeams_Repository\bin\Debug\DevTeams_Repository.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeams_Repository\bin\Debug\DevTeams_Repository.pdb
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeams_Repository\bin\Debug\DevTeams_POCOs.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeams_Repository\bin\Debug\DevTeams_POCOs.pdb
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeams_Repository\obj\Debug\DevTeams_Repository.csproj.AssemblyReference.cache
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeams_Repository\obj\Debug\DevTeams_Repository.csproj.CoreCompileInputs.cache
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeams_Repository\obj\Debug\DevTeams_Repository.csproj.CopyComplete
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeams_Repository\obj\Debug\DevTeams_Repository.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeams_Repository\obj\Debug\DevTeams_Repository.pdb

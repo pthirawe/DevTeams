@@ -1,0 +1,6 @@
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeams_POCOs\bin\Debug\DevTeams_POCOs.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeams_POCOs\bin\Debug\DevTeams_POCOs.pdb
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeams_POCOs\obj\Debug\DevTeams_POCOs.csproj.AssemblyReference.cache
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeams_POCOs\obj\Debug\DevTeams_POCOs.csproj.CoreCompileInputs.cache
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeams_POCOs\obj\Debug\DevTeams_POCOs.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\Dev_Teams\DevTeams_POCOs\obj\Debug\DevTeams_POCOs.pdb
