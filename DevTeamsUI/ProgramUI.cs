@@ -269,6 +269,7 @@ namespace DevTeamsUI
             if(!_devRepo.RemoveDeveloperFromDirectory(dev))
             {
                 Console.WriteLine("Problem deleting Developer.  Please check ID number.");
+                WaitForKey();
                 return;
             }
             Console.WriteLine("Successfully Deleted Developer.");
@@ -341,7 +342,6 @@ namespace DevTeamsUI
             //searchID = Int32.Parse(Console.ReadLine());
             if ((toUpdate = FetchAndCheckTeam(searchID)) == null)
             {
-                WaitForKey();
                 return;
             }
             Console.WriteLine("".PadRight(64,'-'));
@@ -364,6 +364,7 @@ namespace DevTeamsUI
             if (!_devTeamRepo.UpdateTeamInList(searchID, toUpdate))
             {
                 Console.WriteLine("Problem updating Team.  Please check ID number.");
+                WaitForKey();
                 return;
             }
 
@@ -383,7 +384,12 @@ namespace DevTeamsUI
 
             Console.Clear();
             Console.WriteLine("Please enter the ID of the Team to be updated.");
-            searchID = Int32.Parse(Console.ReadLine());
+            if(!Int32.TryParse(Console.ReadLine(), out searchID))
+            {
+                Console.WriteLine("Invalid Number.  Returning to main menu.");
+                WaitForKey();
+                return;
+            }
             if ((toUpdate = FetchAndCheckTeam(searchID)) == null)
             {
                 return;
@@ -426,7 +432,8 @@ namespace DevTeamsUI
             {
                 if(!_devTeamRepo.AddDevToTeam(searchID, devID))
                 {
-                    Console.WriteLine("Problem updating Team.  Please check ID numbers.");
+                    Console.WriteLine("Problem adding developer to team.  Please check ID numbers.");
+                    WaitForKey();
                     return;
                 }
             }
@@ -553,10 +560,8 @@ namespace DevTeamsUI
                 {
                     case "y":
                         return true;
-                        break;
                     case "n":
                         return false;
-                        break;
                     default:
                         Console.WriteLine("Please use y or n to respond.");
                         break;

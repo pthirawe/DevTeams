@@ -10,7 +10,12 @@
       "ProjectGuid": "f84842d4-15fb-4a0b-bf2c-c18a3f5c1b57",
       "DisplayName": "DevTeams_POCOs",
       "ColorIndex": 1
+    },
+    "ec7ce235-acb3-439f-8aaf-e0a96cc4a85a": {
+      "ProjectGuid": "ec7ce235-acb3-439f-8aaf-e0a96cc4a85a",
+      "DisplayName": "DevTeamsUI",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
